@@ -71,3 +71,5 @@ endif;
 require get_template_directory() . '/inc/custom-post-type-pseudo/custom_post_types.php';
 
 require get_template_directory() . '/inc/metabox-pseudo-helper/metabox.php';
+
+require get_template_directory() . '/inc/Gutenberg-Block-Pseudo/block_register.php';
