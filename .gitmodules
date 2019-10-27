@@ -1,0 +1,12 @@
+[submodule "webpack-pseudo-helper"]
+	path = webpack-pseudo-helper
+	url = https://github.com/K-JAX/webpack-pseudo-helper.git
+[submodule "mini-pseudo-theme/inc/Gutenberg-Block-Pseudo"]
+	path = mini-pseudo-theme/inc/Gutenberg-Block-Pseudo
+	url = https://github.com/K-JAX/Gutenberg-Block-Pseudo.git
+[submodule "mini-pseudo-theme/inc/custom-post-type-pseudo"]
+	path = mini-pseudo-theme/inc/custom-post-type-pseudo
+	url = https://github.com/K-JAX/custom-post-type-pseudo.git
+[submodule "mini-pseudo-theme/inc/metabox-pseudo-helper"]
+	path = mini-pseudo-theme/inc/metabox-pseudo-helper
+	url = https://github.com/K-JAX/metabox-pseudo-helper.git
