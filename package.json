@@ -1,0 +1,12 @@
+{
+  "name": "Wordpress-Mini-Pseudo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/K-JAX/wordpress-mini-pseudo-theme.git",
+  "author": "K-JAX <kevingarubba@gmail.com>",
+  "license": "MIT",
+  "scripts":{
+    "reset": "git reset --hard && git submodule update && git submodule foreach 'git checkout master; git pull' && git submodule foreach git clean -f"
+  }
+
+}
